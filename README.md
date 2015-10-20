@@ -1,2 +1,3 @@
 # strangeloop_2015
-Strangeloop After Strangeloop
+
+I watched some talks about distributed systems, databases, and analytics on the internet. Here are my notes.
